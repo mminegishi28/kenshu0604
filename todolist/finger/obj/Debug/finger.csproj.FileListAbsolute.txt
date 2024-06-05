@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\todolist\finger\bin\Debug\finger.exe.config
+C:\Users\Owner\Desktop\todolist\finger\bin\Debug\finger.exe
+C:\Users\Owner\Desktop\todolist\finger\bin\Debug\finger.pdb
+C:\Users\Owner\Desktop\todolist\finger\obj\Debug\finger.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\todolist\finger\obj\Debug\finger.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\todolist\finger\obj\Debug\finger.exe
+C:\Users\Owner\Desktop\todolist\finger\obj\Debug\finger.pdb
